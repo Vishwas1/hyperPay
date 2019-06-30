@@ -1,0 +1,1 @@
+This is nodejs back end for HyperPay application which uses stellar's sdk to send transaction over the stellar network.
