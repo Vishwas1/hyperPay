@@ -1,0 +1,1 @@
+store all your API endpoints

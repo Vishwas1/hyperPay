@@ -1,0 +1,1 @@
+here the entire supporting code of the app is stored (email sending, PDFs generation,etc.)
